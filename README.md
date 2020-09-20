@@ -50,3 +50,9 @@ import DirectoryPickerManager from 'react-native-directory-picker';
   });
   ```
 
+## News
+### Compatible with Android X
+### Compatible with all versions of RN
+### Compatible with files from Google Drive
+### Requesting permission if not exist
+### Retrieving fileName and file type
