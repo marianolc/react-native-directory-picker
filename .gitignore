@@ -35,3 +35,6 @@ node_modules
 .project
 .vscode/
 yarn.lock
+
+.idea/
+android/local.properties
